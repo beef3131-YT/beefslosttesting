@@ -504,6 +504,7 @@ Monsters/Monster_ghazt_undof
 Monsters/Monster_fleechwurm_undof
 Monsters/Monster_wubbox_undof
 Monsters/Monster_jobo
+Monsters/Monster_treble
 -
 monsters_rares:
 Monsters/Monster_noggin_rare_undof
