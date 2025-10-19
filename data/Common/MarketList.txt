@@ -150,6 +150,8 @@ Monsters/Monster_punkleton_young
 monsters_celestials:
 Monsters/Monster_plixie
 Monsters/Monster_psychic
+Monsters/Monster_blasoom
+Monsters/Monster_light
 -
 decorations:
 Decoration/Decoration_test
@@ -501,8 +503,13 @@ Monsters/Monster_jamboree_undof
 Monsters/Monster_ghazt_undof
 Monsters/Monster_fleechwurm_undof
 Monsters/Monster_wubbox_undof
-Monsters/Monster_wubbox_rare_undof
 Monsters/Monster_jobo
+-
+monsters_rares:
+Monsters/Monster_noggin_rare_undof
+Monsters/Monster_kayna_rare_undof
+Monsters/Monster_gumtromp_rare
+Monsters/Monster_wubbox_rare_undof
 -
 decorations:
 Decoration/Decoration_test
