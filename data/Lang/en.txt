@@ -1043,8 +1043,8 @@ str_doubleRewards=DOUBLE
 \nREWARDS!
 
 btn_shop_monsters=Monsters
-btn_shop_monsters_rares=<color="red">Rare Monsters
-pooppooppoopy=<color="yellow">Owner Exclusive
+btn_shop_monsters_rares=Rare Monsters
+pooppooppoopy=Owner Exclusive
 btn_shop_decorations=Decorations
 btn_shop_deco_paths=Paths
 btn_shop_deco_trees=Trees
