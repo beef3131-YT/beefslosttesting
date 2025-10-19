@@ -18,11 +18,11 @@ Monsters/Monster_banno diamonds=100
 Monsters/Monster_stoopa diamonds=250
 Monsters/Monster_maulch coins=25000
 -
-monster_secret:
+monsters_secret:
 Monsters/Monster_percFrog
 Monsters/Special/Monster_melochness
 -
-monster_rares:
+monsters_rares:
 Monsters/Monster_toejammer_rare diamonds=50
 Monsters/Monster_oaktopus_rare diamonds=75
 Monsters/Monster_quibble_rare diamonds=75
