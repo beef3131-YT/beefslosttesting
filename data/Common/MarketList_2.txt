@@ -19,8 +19,8 @@ Monsters/Monster_stoopa diamonds=250
 Monsters/Monster_maulch coins=25000
 -
 monster_secret:
-Monsters/Monster_percFrog diamonds=600
-Monsters/Special/Monster_melochness diamonds=200
+Monsters/Monster_percFrog
+Monsters/Special/Monster_melochness
 -
 monster_rares:
 Monsters/Monster_toejammer_rare diamonds=50
