@@ -501,7 +501,6 @@ Monsters/Monster_jamboree_undof
 Monsters/Monster_ghazt_undof
 Monsters/Monster_fleechwurm_undof
 Monsters/Monster_wubbox_undof
-Monsters/Monster_wubbox_rare_undof
 Monsters/Monster_jobo
 Monsters/Monster_treble
 -
@@ -597,6 +596,10 @@ Monsters/Monster_ffydill Vortex=1
 Monsters/Monster_blasoom
 Monsters/Monster_poewk Vortex=1
 Monsters/Monster_pixolotl Vortex=1
+-
+monster_rares:
+Monsters/Monster_varrow_rare Vortex=5
+Monsters/Monster_banno_rare Vortex=5
 -
 decorations:
 Decoration/Decoration_test
