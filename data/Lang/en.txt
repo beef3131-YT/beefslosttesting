@@ -1043,6 +1043,7 @@ str_doubleRewards=DOUBLE
 \nREWARDS!
 
 btn_shop_monsters=Monsters
+btn_shop_monsters_rares=Rare Monsters
 btn_shop_decorations=Decorations
 btn_shop_deco_paths=Paths
 btn_shop_deco_trees=Trees
