@@ -32,6 +32,18 @@ Monsters/Monster_dulsylvan_rare diamonds=165
 Monsters/Monster_banno_rare diamonds=165
 Monsters/Monster_phangler_rare diamonds=200
 -
+dookie_composer:
+Monsters/Composer/Monster_toejammer_composer feeb_piece=1000
+Monsters/Composer/Monster_potbelly_composer feeb_piece=1000
+Monsters/Composer/Monster_tweedle_composer feeb_piece=1000
+Monsters/Composer/Monster_flootfly_composer feeb_piece=1000
+Monsters/Composer/Monster_choral_composer feeb_piece=1000
+Monsters/Composer/Monster_likho_composer feeb_piece=1000
+Monsters/Composer/Monster_wadee_composer feeb_piece=1000
+Monsters/Composer/Monster_quibble_composer feeb_piece=1000
+Monsters/Composer/Monster_stoopa_composer feeb_piece=1000
+
+-
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1
