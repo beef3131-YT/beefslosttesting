@@ -1,6 +1,6 @@
 
 EM
-monsters:monsters=btn_shop_monsters,monsters_rares=btn_shop_monsters_rares,monsters_secret=pooppooppoopycomposer:btn_shop_op
+monsters:monsters=btn_shop_monsters,monsters_rares=btn_shop_monsters_rares,monsters_secret=pooppooppoopy,composer:btn_shop_op
 decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_obstacles=btn_shop_deco_obstacles,deco_other=btn_shop_deco_other
 structures:structures
 ;
