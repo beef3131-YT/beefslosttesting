@@ -242,11 +242,11 @@ Monsters/Monster_mammott_dream=M4mm477
 Monsters/Monster_toejammer_dream=703j4mm3r
 Monsters/Monster_stogg_dream=S7066
 Monsters/Monster_quibble_dream=QI_I188L3
-Monsters/Monster_deedge_dream=pussy (placeholder)
-Monsters/Monster_likho_dream=pussy (placeholder)
-Monsters/Monster_ghazt_dream=pussy (placeholder)
-Monsters/Monster_dragong_dream=pussy (placeholder)
-Monsters/VOIDCORN_dream=pussy (placeholder)
+Monsters/Monster_deedge_dream=Name Not F00000000000000000000000000000000000000
+Monsters/Monster_likho_dream=Y4P
+Monsters/Monster_ghazt_dream=Tauma C4T 3XPR1M3N7
+Monsters/Monster_dragong_dream=DR46N6
+Monsters/VOIDCORN_dream=weanis
 
 
 Monsters/Monster_spurrit=Spurrit
