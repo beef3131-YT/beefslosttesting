@@ -39,6 +39,7 @@ Monsters/Monster_maw_young_bio=It should come to no surprise that the young Maw 
 Monsters/Monster_quibble_young=Young Quibble
 Monsters/Monster_quibble_young_bio=The endless enthusiasm of a Quibble hatchling is one unmatched by any other monster species. Collecting all sorts of colorful pebbles to make up its training keys, their creativity is bolstered by their endless asking of questions! Of course, the celestials are always glad to assist in answering all sorts of questions, though they still can't seem to discover the answer of where baby monsters come from...
 Monsters/Monster_quibble_rare=Rare Quibble
+Monsters/Monster_quibble_rare_bio=Some Quibbles flat out refuse to grow up – in fact, it's one of the few things the two heads can agree upon. Rare Quibbles, who naturally retain the short, stout beaks of their youth, really commit: they preen their crests into radical feather-dos and never replace the colorful keyboards they played as hatchlings. They do need to use beak extenders to reach the rocks... but whatever, man. Still totally hardcore.
 Monsters/Monster_phangler_young=Young Phangler
 Monsters/Monster_phangler_young_bio=Young Phangler bio
 Monsters/Monster_stogg_young=Young Stogg
@@ -284,8 +285,7 @@ Monsters/Monster_varrow_rare=Rare Varrow
 Monsters/Monster_varrow_rare_bio=What do you find when you place a needle inside a nutshell, inside a berry, in a cloth, place it in a chest, and bury it at the bottom of the marsh's waters? A Rare Varrow, that's what! These queer monsters have a penchance to anything puzzling and paradoxical- including themselves! While it's unknown how these odd monsters came into existence, they're here to stay, boasting their garments and trinkets from distant lands and giving everyone something to ponder every chance they get...
 
 Monsters/Monster_banno_rare=Rare Banno
-Monsters/Monster_banno_rare_bio=twerking.
-
+Monsters/Monster_banno_rare_bio=RARE Banno is a TWERKER of the legendary TWERK GANG, he bath!
 
 
 
