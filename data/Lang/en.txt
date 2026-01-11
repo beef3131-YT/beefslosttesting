@@ -1032,10 +1032,10 @@ str_popup_knottmaker_fail=Your crafting failed! But items you used were converte
 str_popup_knottmaker_fail_items=Your crafting failed! Don't worry you get some of the items back!
 str_popup_knottmaker_fail_noitems=Your crafting failed! Unfortunately all of your items were lost.
 
-str_popup_tutor1=Welcome to <color="purple">The Lost Landscapes!</color>\nA fan-made <color="green">My Singing Monsters</color> game!
-str_popup_tutor2=Hello! I'm Floot Fly. This here is my pal Toe Jammer. Let's get more monsters on this island.
+str_popup_tutor1=Welcome to <color="purple">Death
+str_popup_tutor2=...
 str_popup_tutor3=Go get a <color="green">Tweedle.</color>
-str_popup_tutor4=Good job! Now we have a <color="green">Tweedle</color> here.\n As well, a gift has appeared in your mailbox! Have fun and happy monstering!
+str_popup_tutor4=...
 
 str_noitems=No Items
 
@@ -1118,7 +1118,7 @@ btn_teleportSend=Send
 btn_inf_bio=Bio
 btn_inf_stats=Stats
 btn_inf_islands=Islands
-btn_zap=Zap
+btn_zap=Use The Power Of Gods to Electrify This Creature To A Statue.
 btn_inventory=Inventory
 btn_wakeUp=Wake up
 btn_upgrade=Upgrade
