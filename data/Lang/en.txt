@@ -958,6 +958,9 @@ str_island_EgyptPipes=Youtube only (Don't edit)
 str_island_dream=island_demented_dream_ERROR:
 str_island_dream_bio=what the actual fwog
 
+str_island_Paint=PP TEST
+str_island_Paint_bio=testing pong
+
 str_island_lvl=Lvl <lvl>
 
 str_island_unlock=Unlocked at\n<color=green>Level <lvl>
