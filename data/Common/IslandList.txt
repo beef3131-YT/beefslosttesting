@@ -10,4 +10,4 @@ Knottshurr
 Meduza
 dream
 Minigame_Thumpies
-Paint
+Minigame_yapleap

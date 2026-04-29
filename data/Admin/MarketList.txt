@@ -779,6 +779,6 @@ Monsters/Loodvigg
 Monsters/Uuduk
 Monsters/Whimmzies
 ;
-Paint
+Minigame_yapleap
 monsters:
 Monsters/Monster_fluoress coins=10000
