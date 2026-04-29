@@ -779,3 +779,6 @@ Monsters/Loodvigg
 Monsters/Uuduk
 Monsters/Whimmzies
 ;
+Paint
+monsters:
+Monsters/Monster_fluoress coins=10000
