@@ -9,4 +9,5 @@ GM
 Knottshurr
 Meduza
 dream
-EgyptPipes
+Minigame_Thumpies
+Paint
